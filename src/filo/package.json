@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "start": "node ./Puppeteer.js claudia.capota Roxan@0621 127811 17821"
+  },
+  "dependencies": {
+    "puppeteer": "10.0.0",
+    "puppeteer-cluster": "0.22.0"
+  }
+}
